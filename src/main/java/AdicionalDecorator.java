@@ -1,4 +1,4 @@
-public abstract  class AdicionalDecorator implements Bebida{
+public abstract class AdicionalDecorator implements Bebida{
     protected Bebida bebida;
 
     public AdicionalDecorator(Bebida bebida) {
